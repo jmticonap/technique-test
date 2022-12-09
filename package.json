@@ -1,0 +1,17 @@
+{
+  "name": "technique-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "author": "Juan Manuel Ticona Pacheco",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "vitest": "^0.25.6"
+  }
+}
